@@ -1,0 +1,38 @@
+[
+  {
+    "id": "doc-sample-1790701189138",
+    "name": "Apex Global Technologies — Policy Manual 2026",
+    "originalName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "size": 6896,
+    "mimeType": "application/pdf",
+    "filePath": "/app/applet/data/uploads/Apex-Global-Handbook-1790701189043.pdf",
+    "fileSearchStoreName": "fileSearchStores/storeapexglobaltechnologies-818qzyrdrn4u",
+    "status": "ready",
+    "progressPercent": 100,
+    "statusStep": "Ready for questions.",
+    "createdAt": "2026-09-29T16:59:49.915Z",
+    "updatedAt": "2026-09-29T17:47:25.070Z",
+    "questionsCount": 8,
+    "fileUri": "https://generativelanguage.googleapis.com/v1beta/files/jjc7mtisbgqm",
+    "fileName": "files/jjc7mtisbgqm",
+    "documentResourceName": "fileSearchStores/storeapexglobaltechnologies-818qzyrdrn4u/documents/apex-global-technologies-po-w5aid2wmj7eu"
+  },
+  {
+    "id": "doc-1790701279759-oxfhr",
+    "name": "Quantum-Safety-Spec",
+    "originalName": "Quantum-Safety-Spec.pdf",
+    "size": 1117,
+    "mimeType": "application/pdf",
+    "filePath": "/app/applet/data/uploads/1790701279751-162634440-Quantum-Safety-Spec.pdf",
+    "fileSearchStoreName": "fileSearchStores/storequantumsafetyspecpdf-cjxxxu6p0ewv",
+    "status": "ready",
+    "progressPercent": 100,
+    "statusStep": "Indexing complete. Ready for questions.",
+    "createdAt": "2026-09-29T17:01:20.522Z",
+    "updatedAt": "2026-09-29T17:44:11.277Z",
+    "questionsCount": 2,
+    "fileUri": "https://generativelanguage.googleapis.com/v1beta/files/wrxyy5v672df",
+    "fileName": "files/wrxyy5v672df",
+    "documentResourceName": "fileSearchStores/storequantumsafetyspecpdf-cjxxxu6p0ewv/documents/quantumsafetyspecpdf-6btluiivb40u"
+  }
+]

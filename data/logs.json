@@ -1,0 +1,102 @@
+[
+  {
+    "id": "audit-1790704045070-vgi",
+    "question": "What is the company regulation regarding personal hovercrafts and jetpacks?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:47:25.070Z",
+    "citationsCount": 0,
+    "latencyMs": 8941,
+    "success": true
+  },
+  {
+    "id": "audit-1790704036122-t27",
+    "question": "How many rollover PTO days are permitted under that policy?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:47:16.122Z",
+    "citationsCount": 1,
+    "latencyMs": 11921,
+    "success": true
+  },
+  {
+    "id": "audit-1790704024196-sch",
+    "question": "What is the probationary timeline and when do core health benefits begin?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:47:04.196Z",
+    "citationsCount": 1,
+    "latencyMs": 5204,
+    "success": true
+  },
+  {
+    "id": "audit-1790703987236-eg0",
+    "question": "How does that compare to international travel allowances?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:46:27.236Z",
+    "citationsCount": 1,
+    "latencyMs": 30566,
+    "success": true
+  },
+  {
+    "id": "audit-1790703956661-xu4",
+    "question": "What are the rules for domestic meal per diems?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:45:56.661Z",
+    "citationsCount": 1,
+    "latencyMs": 7303,
+    "success": true
+  },
+  {
+    "id": "audit-1790703885820-1zx",
+    "question": "What is the daily meal per diem for domestic travel and what is the internet connectivity stipend?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:44:45.820Z",
+    "citationsCount": 2,
+    "latencyMs": 27976,
+    "success": true
+  },
+  {
+    "id": "audit-1790703851278-78r",
+    "question": "What is the daily meal per diem for domestic travel and what is the internet connectivity stipend?",
+    "documentId": "doc-1790701279759-oxfhr",
+    "documentName": "Quantum-Safety-Spec.pdf",
+    "timestamp": "2026-09-29T17:44:11.278Z",
+    "citationsCount": 1,
+    "latencyMs": 15842,
+    "success": true
+  },
+  {
+    "id": "audit-1790701305933-2fs",
+    "question": "What is the emergency protocol code and the maximum magnetic field allowed?",
+    "documentId": "doc-1790701279759-oxfhr",
+    "documentName": "Quantum-Safety-Spec.pdf",
+    "timestamp": "2026-09-29T17:01:45.934Z",
+    "citationsCount": 1,
+    "latencyMs": 15344,
+    "success": true
+  },
+  {
+    "id": "audit-1790701228047-rw0",
+    "question": "What is the company policy regarding lunar colony stations and warp drive maintenance?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:00:28.047Z",
+    "citationsCount": 0,
+    "latencyMs": 5242,
+    "success": true
+  },
+  {
+    "id": "audit-1790701212981-io1",
+    "question": "What is the maximum daily meal per diem for domestic travel, and when must expense reports be submitted?",
+    "documentId": "doc-sample-1790701189138",
+    "documentName": "Apex Global Technologies — Policy Manual 2026.pdf",
+    "timestamp": "2026-09-29T17:00:12.981Z",
+    "citationsCount": 2,
+    "latencyMs": 7668,
+    "success": true
+  }
+]

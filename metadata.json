@@ -1,0 +1,6 @@
+{
+  "name": "Appening AI — Document Intelligence Assistant",
+  "description": "Professional RAG-based document question-answering system powered by Gemini File Search with source citations and page-level grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
